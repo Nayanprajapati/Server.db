@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "test@test.com",
+      "password": "123456",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "email": "john@example.com",
+      "password": "password",
+      "role": "user"
+    },
+    {
+      "id": "00e9",
+      "firstName": "ad",
+      "lastName": "as",
+      "email": "as@ass.com",
+      "password": "111"
+    },
+    {
+      "id": "c55f",
+      "firstName": "Nayan",
+      "lastName": "ja",
+      "email": "abis@gmail.com",
+      "password": "nayan"
+    }
+  ]
+}
